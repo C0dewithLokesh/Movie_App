@@ -2,5 +2,7 @@
 
 ## Demo ScreenShots
 
-![image](https://github.com/C0dewithLokesh/Movie_App/assets/77185999/9d5cb582-41c0-476b-9cdf-f7fdcc048bab)
-![image](https://github.com/C0dewithLokesh/Movie_App/assets/77185999/376e7d59-458c-497e-8e4d-af1b1e235c93)
+![image](https://github.com/C0dewithLokesh/Movie_App/assets/77185999/d911f76a-6353-451d-80f4-4d74aa47496d)
+
+![image](https://github.com/C0dewithLokesh/Movie_App/assets/77185999/b7b9beef-95dd-4c3e-beb3-f8cb30cd0b34)
+
